@@ -6,7 +6,6 @@
 - 🏫 Graguated from UC Berkeley with Data Science Major
 - 👩‍🦲 Seeking a Fulltime Full-Stack Software Engineer Position
 - 🏸 Fun fact: I Love Baking and Playing Badminton
-
 <br/>
 
 ### Connect with me
@@ -34,7 +33,6 @@
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
 <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
 
-<br/>
 <br/>
 
 ### GitHub's Stats
