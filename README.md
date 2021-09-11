@@ -4,7 +4,6 @@
 
 - 👩🏻‍💻 Current Full-Stack Software Engineer Intern in BearHouse Innovations
 - 🏫 Graguated from UC Berkeley with Data Science Major
-- 👩‍🦲 Seeking a Fulltime Full-Stack Software Engineer Position
 - 🏸 Fun fact: I Love Baking and Playing Badminton
 <br/>
 
