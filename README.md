@@ -2,7 +2,7 @@
 
 <br/>
 
-- 👩🏻‍💻 Current Full-Stack Software Engineer Intern in BearHouse Innovations
+- 👩🏻‍💻 Current Software Engineer at Solidigm
 - 🏫 Graguated from UC Berkeley with Data Science Major
 - 🏸 Fun fact: I Love Baking and Playing Badminton
 <br/>
@@ -30,7 +30,8 @@
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
 <img alt="GraphQl" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
-<img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
 
 <br/>
 
